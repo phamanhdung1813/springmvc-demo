@@ -5,4 +5,4 @@
 * JSP template
 * Data JPA with JPA Auditing 
 * Design Patern
-* Some knowledge on Servlet JDBC 
+* Some knowledge on Servlet JDBC
